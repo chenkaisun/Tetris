@@ -17,7 +17,7 @@ conda activate tetris
 chmod +x scripts/setup.sh
 ./scripts/setup.sh
 ```
-Then put `data/` folder from [Google Drive](https://drive.google.com/file/d/1pDyv-me64FnNYqmD5G8OGO2UdF2HQ8FZ/view?usp=sharing) into `code/`
+Then put `data/` folder from [Google Drive](https://drive.google.com/file/d/1sOPb3ptG8LG53A3D159sgjgbaFPVcl1g/view?usp=sharing) into `code/`
 
 
 ## Note
